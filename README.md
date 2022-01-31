@@ -33,3 +33,4 @@ Github Repository: https://github.com/leslyr562/shop-shop.git
 - Lesly Gonzalez
 
 ![title](client/src/assets/images/page.png)
+![title](client/src/assets/images/page2.png)
