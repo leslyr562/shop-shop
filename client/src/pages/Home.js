@@ -4,6 +4,7 @@ import CategoryMenu from "../components/CategoryMenu";
 import Cart from '../components/Cart';
 
 const Home = () => {
+  console.log('Homepage delivered')
   return (
     <div className="container">
       <CategoryMenu />
